@@ -11,14 +11,14 @@ namespace mod4
         public void Mod_4_1_4()
         {
             string A, B;
-            bool C = A != B;
+            //bool C = A != B;
         }
 
         public void Mod_4_1_5()
         {
             int A, B;
             double X, Y;
-            bool C = A < B || X > Y;
+            //bool C = A < B || X > Y;
         }
 
         public void Mod_4_1_12()
