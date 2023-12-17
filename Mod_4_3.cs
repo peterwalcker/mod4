@@ -8,7 +8,7 @@ namespace mod4
 {
     public class Mod_4_3
     {
-        public void Mod_4_3_test()
+        public void Test()
         {
             Mod_4_3_17();
         }
